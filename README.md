@@ -531,16 +531,3 @@ python enhanced_media_selector.py -s "/source" -dest "/dest" --target-size 1GB
 ## 📄 License & Contributing
 
 This tool is provided as-is for educational and professional use. Feel free to modify and distribute according to your needs.
-
-### Suggested Enhancements
-- GUI interface using tkinter or PyQt
-- Integration with cloud storage (AWS S3, Google Drive)
-- Image analysis for content-based selection
-- Database integration for large-scale management
-- Web interface for remote operations
-
----
-
-**Ready to revolutionize your media file management? 🚀**
-
-*For the latest updates and examples, check the project repository.*
